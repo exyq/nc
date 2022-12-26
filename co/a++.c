@@ -7,5 +7,6 @@ int main()
 
 	printf("++a = %d\n", ++a);
 	printf("a = %d\n", a);
+	printf("%d\n", sizeof(a));
 	return 0;
 }

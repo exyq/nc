@@ -2,8 +2,6 @@
 #include <stdlib.h>
 int main()
 {
-	printf("hello\n\a");
-	system("pause");
-
-	return 0;
+	system("notepad"); 
+	return 0; 
 }
